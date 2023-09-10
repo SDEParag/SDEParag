@@ -4,7 +4,7 @@
 <img align="right" alt="coding"width="400"src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdeparag&label=Profile%20views&color=0e75b6&style=flat" alt="sdeparag" /> </p>
 
-- 🌱 I’m completed Java software certification course which include Tech Stack **J2EE/ Oops, DSA, HTML, Hibernate, spring, spring boot, MySQL database, Restful API Dvelopment, Agile, MVC, Webservice, also learn new technologies. Tools: IntelliJ IDEA , Eclipse, STS 4, MySQL Database. Excellent teamwork and leadership abilities.**
+- 🌱 I’m completed Java software certification course which include Tech Stack **J2EE/ Oops, DSA, HTML, Hibernate, spring, spring boot, MySQL database, Restful API Dvelopment, Agile, MVC, Webservice, also learn new technologies. Tools: IntelliJ IDEA , Eclipse, STS 4, MySQL Database, PostmaN For API Test. Excellent teamwork and leadership abilities.**
 
 - 💬 Ask me about **Core Java, J2EE/ Oops, DSA, HTML, Hibernate, spring, spring boot, MySQL database, Restful API Dvelopment,SQL,Pagination, CURD API, mapping strategies, MVC architecture, Spring security, spring validation,JWT TOKEN, POSTMAN API TEST.**
 
