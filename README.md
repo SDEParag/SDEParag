@@ -6,7 +6,7 @@
 
 - 🌱 I’m completed Java software certification course which include Tech Stack **J2EE/ Oops, DSA, HTML, Hibernate, spring, spring boot, MySQL database, Restful API Dvelopment, Agile, MVC, Webservice, also learn new technologies. Tools: IntelliJ IDEA , Eclipse, STS 4, MySQL Database, Postman For API Test. Excellent teamwork and leadership abilities.**
 
-- 💬 Ask me about **Core Java, J2EE/ Oops, DSA, HTML, Hibernate, spring, spring boot, MySQL database, Restful API Dvelopment,SQL,Pagination, CURD API, mapping strategies, MVC architecture, Spring security, spring validation,JWT TOKEN, POSTMAN API TEST.**
+- 💬 Ask me about **Core Java, J2EE/ Oops, DSA, HTML, Hibernate, spring, spring boot, MySQL database, Restful API Dvelopment,SQL,Pagination, CURD API, mapping strategies, MVC architecture, Spring security, spring validation,JWT TOKEN, Postman For API Testing.**
 
 - 📫 How to reach me **paragbhashkarn@gmail.com**
 
