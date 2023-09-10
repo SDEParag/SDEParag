@@ -1,4 +1,4 @@
-![logo](https://github.com/SDEParag/SDEParag/commit/d73d43ffe7e9c3903758b042c0453c41d9324c82)
+![logo](https://github.com/SDEParag/SDEParag/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Parag_SDE</h1>
 <h3 align="center">A passionate Java software Developer from India</h3>
 <img align="right" alt="coding"width="400"src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
